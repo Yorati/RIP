@@ -23,4 +23,4 @@
 Выполняется...
 
 #
-Все остальные и дополнительные [материалы](https://github.com/iu5team/iu5web-fall-2019/blob/master/README.md) по курсу
+Все условия и другие [материалы](https://github.com/iu5team/iu5web-fall-2019/blob/master/README.md) по курсу
