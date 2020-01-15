@@ -20,7 +20,7 @@
 Отчеты по рубежным контролям распологаются [здесь](https://github.com/Yorati/RIP/tree/master/%D0%9E%D1%82%D1%87%D0%B5%D1%82%D1%8B)
 
 ### Домашнее задание:
-* [Здесь](https://github.com/Yorati/theFlowerz)
+[Здесь](https://github.com/Yorati/theFlowerz)
 
 #
 Все условия и другие [материалы](https://github.com/iu5team/iu5web-fall-2019/blob/master/README.md) по курсу
